@@ -1,0 +1,42 @@
+
+div {
+	background-color: #F7EFEF ; 
+	height: 17em;
+	width:  15em;
+	text-align: center;
+	position: relative;
+	float: left;
+	margin-right: 10px;
+}
+
+div:hover{
+	color: #C03868;
+	cursor: pointer;
+	font-size: 20px;
+}
+
+h3{
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.destacado{
+	font-family: 'Slabo 27px', serif;
+}
+
+.icon-paperplane{
+	font-size: 2em;
+}
+
+.icon-heart{ 
+	font-size: 2em;
+}
+.icon-diamond{
+	font-size: 2em;
+}
+
+.icon-drink2{
+	font-size: 2em;
+}
+.icon-cake{
+	font-size: 2em;
+}
